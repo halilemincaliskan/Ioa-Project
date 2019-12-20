@@ -17,7 +17,7 @@ way. So: “ABCD” means we have connection from A to B , A to C and A to D
 - The first node in the text is the start point for word creation.  
 
 This input means you have a graph like:  
-
+![image](https://i.ibb.co/jhG9StY/Ek-A-klama-2019-12-20-155232.png)  
 Desired Output:  
 A  
 AB  
