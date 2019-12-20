@@ -1,9 +1,9 @@
-﻿/*														    \
+/*										\
 |		Name & Surname			: Halil Emin Çalışkan		|
-|		School Number			: 1306180055				|
-|		Date					: 22/12/2019				|
-|		Development Environment : Visual Studio 2019		|
-\														   */					
+|		School Number			: 1306180055			|
+|		Date				: 22/12/2019			|
+|		Development Environment 	: Visual Studio 2019		|
+\							 		       */					
 
 
 // I import important library in this area.
